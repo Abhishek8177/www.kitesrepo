@@ -1,0 +1,121 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.five{
+
+    background-image: url(images/sky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+    height: 700px;
+}
+
+
+legend{
+      
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(169, 169, 110);
+    box-shadow: 2px 2px rgb(49, 43, 43);
+
+}
+
+fieldset{
+
+    width: 400px;
+    border: 2px solid black;
+   
+}
+
+input{
+
+    
+    border: 1px solid black;
+    font-size:25px;
+   
+}
+
+a{
+
+    text-decoration: none;
+}
+
+button{
+
+    
+    text-align: center;
+    position: relative;
+    top: -10px;
+    font-size: 20px;
+    font-weight: bold;
+  
+    width: 80px;
+    border-radius: 25%;
+
+}
+
+button:hover{
+
+    background-color: rgb(109, 142, 109);
+    color: white;
+}
+
+
+
+.one{
+    margin-top: 8px;
+    margin-left: 25px;
+    text-align: center;
+    font-size: 20px;
+
+
+}
+
+label{
+
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(16, 15, 15);
+    text-transform: capitalize;
+}
+
+.abhi{
+
+    position: relative;
+    left: 550px;
+    top: 100px;
+}
+
+.footer{
+
+    background-color: rgb(220, 177, 177);
+    height: 50px;
+    width: 100%;
+    position: relative;
+    top: 280px;
+}
+
+h3{
+
+    text-align: center;
+    line-height: 50px;
+    text-transform: capitalize;
+    text-shadow: 1px 1px white;
+
+
+}
+
+img{
+
+    position: relative;
+    left: 380px;
+    top: -40px;
+    letter-spacing: 5px;
+}
+
+
+

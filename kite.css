@@ -1,0 +1,320 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.backgroun{
+    background-image: url(images/best\ kite.jpg);
+    height: 800px;
+    background-size: 100% 800px;
+}
+
+
+
+.header{
+
+    background-color: grey;
+    color: black;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 35px;
+    text-transform: capitalize;
+    text-shadow: 2px 2px white;
+    background: transparent;
+    
+    
+}
+
+.menu{
+    
+    background: transparent;
+    height: 100px;
+    width: 80%;
+    float: left;
+    
+}
+
+ul li{
+
+   float: left;
+   display: fixed;
+   font-size: 20px;
+
+   font-weight: bold;
+   height: 50px;
+   width: 130px;
+   margin-left: 10px;
+   margin: 25px;
+   text-align: center;
+   line-height: 50px;
+   list-style: none;
+   border-radius: 30%;
+  
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+    
+}
+
+ul li:hover{
+
+    font-size: 28px;
+    transition: 0.5s;
+    background-color: lightslategray;
+    box-shadow: 2px 2px red;
+    box-shadow: 2.1px 2px black;
+    text-shadow: 2px 2px black;
+}
+.side{    
+    height: 100px;
+    width: 20%;
+    float: left;
+     line-height: 100px;
+    position: relative;
+       
+}
+
+input{
+
+    background: transparent;
+}
+
+h3{
+
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 200px;
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.info{
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    position: relative;
+    top: 180px;
+    text-shadow: 2px 2px red;
+}
+
+.second{
+
+    background-color:lightgrey;
+    height: 800px;
+   
+}
+
+.heading1{
+
+    background-color: light rgb(233, 227, 227);
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: capitalize;   
+    text-shadow: 1px 1px red;
+    
+}
+
+
+.page1{
+    float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+         
+}
+.page2{
+
+    float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+}
+.page3{
+    float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+}
+.page4{
+    float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+}
+.page5{
+
+     float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+
+}
+.page6{
+
+    float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+
+}
+
+.page7{
+
+    float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+
+
+}
+
+.page8{
+
+    float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+
+}
+.page9{
+    float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+
+}
+.page10{
+
+    float: left;
+    background-color: aliceblue;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+
+}
+
+.imges{
+
+    border: 2px solid black;
+}
+
+
+h2{
+    font-size: 25px;
+    text-transform:capitalize ;
+}
+
+h5{
+    font-size: 15px;
+    text-decoration: line-through;
+}
+
+h4{
+    font-size: 20px;
+}
+
+button{
+    font-weight: bold;
+    padding: 3px;
+    text-transform: capitalize;
+    background-color: gray;
+    height: 30px;
+    width: 80px;
+    border-radius: 25%;
+}
+
+button:hover{
+    font-size: 15px;
+    transform: 0.5s;
+    color: green;
+    background: transparent;
+}
+
+.third{
+
+    background-image: url(images/sky.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 850px;
+    height: 850px;
+}
+
+.side1{
+
+    background-image: url(images/fly1.jpg);
+    background-repeat: no-repeat;
+    background-size: 45% 500px;
+     height: 700px;
+     width: 100%;
+     position: relative;
+     top: 98px;
+     left: 40px;
+     float: left;
+     
+}
+
+.information{
+
+    background: transparent;
+    height: 100px;
+    width: 50%;
+    position: relative;
+    top: 100px;
+    left: 50%;
+}
+
+.one{
+
+    position: relative;
+    top: -670px;
+    left: 100px;
+    font-weight: bold;
+    text-transform: capitalize;   
+    text-shadow: 1px 1px white;
+    font-size: 50px;
+}
+
+.data{
+
+    background: transparent;
+    background-size: 50% 500px;
+    height: 500px;
+    width: 100%;
+   
+}
+
+h6{
+    font-size: 18px;
+    position: relative;
+    top: -450px;
+    left: 800px;
+    word-spacing: 4px;
+}
+
+.fourth{
+
+    background-color: rgb(173, 216, 230);
+    height: 500px;
+    width: 100%;
+}
+
